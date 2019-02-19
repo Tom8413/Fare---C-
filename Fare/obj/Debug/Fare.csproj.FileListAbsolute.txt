@@ -1,0 +1,10 @@
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\bin\Debug\Fare.exe.config
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\bin\Debug\Fare.exe
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\bin\Debug\Fare.pdb
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\obj\Debug\Fare.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\obj\Debug\Fare.Form1.resources
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\obj\Debug\Fare.Properties.Resources.resources
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\obj\Debug\Fare.csproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\obj\Debug\Fare.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\obj\Debug\Fare.exe
+C:\Users\Tomek\Desktop\javaScript\C#\Projekty do ćwiczenia\Fare\Fare\obj\Debug\Fare.pdb
